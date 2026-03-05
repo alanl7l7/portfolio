@@ -1,4 +1,17 @@
 "# portfolio" 
+
+File structure:
+
+index.html (Your main entry point)
+
+classic.html (Your backup/static resume)
+
+/assets (A folder for your sprites, images, and sounds)
+
+/js (A folder for your game logic files like player.js or levels.js)
+
+/css (A folder for your styling)
+
 To keep this "agile," we want to avoid over-engineering. You don't need a massive game world; you just need a "Playable Resume" that is fast to load and easy to navigate.
 
 The best framework for this is KAPLAY (formerly Kaboom.js). It is essentially the "React of Game Engines"—it’s fast, logic-driven, and you can build a working prototype in an afternoon.
