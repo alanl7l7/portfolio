@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Portfolio",
+			"path": "."
+		},
+		{
+			"name": "ContactCard",
+			"path": "../../../Downloads/ContactCard"
+		}
+	],
+	"settings": {}
+}
